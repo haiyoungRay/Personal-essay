@@ -1,0 +1,31 @@
+{
+  "name": "Personal-essay",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haiyoungRay/Personal-essay.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haiyoungRay/Personal-essay/issues"
+  },
+  "homepage": "https://github.com/haiyoungRay/Personal-essay#readme",
+  "devDependencies": {
+    "vuepress": "^1.4.0"
+  },
+  "dependencies": {
+    "core-js": "^2.6.11",
+    "element-ui": "^2.13.0",
+    "highlight.js": "^9.18.1",
+    "node-sass": "^4.13.1",
+    "sass-loader": "^8.0.2"
+  }
+}
