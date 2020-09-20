@@ -2,7 +2,7 @@
 home: true
 heroImage: /logo.jpeg
 heroText: Ray的个人随笔
-tagline: ultrapower-ui，一套基于 Vue 2.0 的桌面端组件库
+tagline: ，一套基于 Vue 2.0 的桌面端组件库
 actionText: GO →
 actionLink: /components/promise
 lang: zh-CN
@@ -19,7 +19,5 @@ footer: Copyright © 雷海洋 Ray Software.All right reserved
 
 ### useage
 ``` js
-import ultrapowerUi from 'ultrapower-ui'
-import 'ultrapower-ui/dist/ultrapower-ui.css'
-Vue.use(ultrapowerUi)
+console.log("ray")
 ```
